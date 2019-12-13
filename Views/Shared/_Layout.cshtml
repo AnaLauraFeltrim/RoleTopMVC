@@ -1,0 +1,48 @@
+﻿@{
+    var nomeView = (string) ViewData["NomeView"];
+}
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>ROLE TOP</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        @if(!"Home".Equals(nomeView))
+    {
+        
+        
+        
+    }
+    </head>
+    <body>
+        <header>
+            <nav>
+                <hgroup class="header">
+                <img class="logo" src="/img/logo.png">
+                <ul id="nav">
+                        <li class="header"><a onclick="toggleMobileMenu()" asp-asp-controller="Home" asp-action="Index" class="active">Sobre</a></li>
+                        <li class="header"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#galeria'>Galeria</a></li>
+                        <li class="header"><a asp-controller="Cliente" asp-action="Login">Login</a></li>
+                        <li class="header"><a asp-controller="Cadastro" asp-action="Cadastro">Cadastrar</a></li>
+                        <li class="header"><a asp-controller="Orcamento" asp-action="Index">Agendamento</a></li>
+                    
+                </ul>
+                </hgroup>
+            </nav>
+        </header>
+        
+        @RenderBody()
+        <footer>
+            <div id="contatos">
+                <p>Contatos:</p>
+                <p> <i class="fab fa-whatsapp"></i> WhatsApp: 119123456789 </p>
+                <p> <i class="fas fa-envelope"> </i> E-mail: roletop@gmail.com </p>
+            </div>
+            <div id="redes-socias">
+                <p>Redes Sociais</p>
+                <p> <i class="fab fa-instagram"></i> roletop</p>
+                <p> <i class="fab fa-facebook-square"></i> Rolê Top</p>
+            </div>
+        </footer>
+
+    </body>
+</html>

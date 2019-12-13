@@ -1,0 +1,140 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+main{
+    height: 100%;
+}
+
+body{
+    background-color: antiquewhite;
+}
+/*---------------------------------------------------------------------------------------------------------------
+                                               header-início
+-------------------------------------------------------------------------------------------------------------------*/
+header{
+
+    color: #000;
+    flex-direction: row;
+}
+
+ header{
+    display: flex;
+    background-color: #E47A2E;
+
+    
+}
+
+hgroup.header{
+    justify-content: space-around;
+    display: flex;
+    background-color: #E47A2E;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-right: 3.5em;
+    
+}
+li{
+    list-style-type: none;
+    font-size: 3.5em;
+    text-align: center;
+    margin-left: .2em;
+    
+}
+ .logo{
+     width: 15%;
+     justify-content: flex-start;
+     margin-top: .5em;
+ }
+
+ nav{
+     justify-content: space-around;
+     margin-top: 1.5em;
+     
+ }
+
+ ul li{
+     color: #000;
+     justify-content: baseline;
+ }
+ a{
+     text-decoration: none;
+     color: #000;
+ }
+
+/*---------------------------------------------------------------------------------------------------------------
+                                                header-fim
+-------------------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------------------------------------
+                                             Novo evento - começo
+-------------------------------------------------------------------------------------------------------------------*/
+
+ input{
+     width: 25%;
+     height: 2.5%;
+     border: none;
+     font-size: 1.5em;
+     align-self: center;
+     
+ }
+
+ label{
+     font-size: 2.5em;
+
+ }
+
+ select{
+    width: 25%;
+    height: 2.5em;
+    border: none;
+ }
+
+ div#sla-meo{
+     margin-top: 2.5em;
+ }
+
+ /*---------------------------------------------------------------------------------------------------------------
+                                             Novo evento - começo
+-------------------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------------------------------------
+                                             Footer - começo
+-------------------------------------------------------------------------------------------------------------------*/
+ footer{
+    display: flex;
+    background-color: #E47A2E;
+    flex-direction: column;
+
+}
+
+footer p{
+    font-size: 2em;
+}
+
+
+div#redes-socias{
+    align-self: flex-end;
+    margin-top: -17em;
+    margin-right: 2.5em;
+    margin-bottom: 10em;
+}
+
+div#contatos {
+    
+    margin-top: 2em;
+    margin-right: 2.5em;
+    margin-bottom: 10em;
+
+}
+/*---------------------------------------------------------------------------------------------------------------
+                                             Footer-fim
+-------------------------------------------------------------------------------------------------------------------*/
+
+
+ 

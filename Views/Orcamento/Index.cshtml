@@ -1,0 +1,59 @@
+
+<link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <main>
+            <form method="POST" action='@Url.Action("Registrar", "Orcamento")'>
+
+
+                <div id="cadastro">
+
+
+                    
+                    <div class="duble-field">
+                        <label for="Nome">Nome</label>
+                        <br>
+                        <input id="nome" type="text" maxlength="20" required name="nome">
+                    </div>
+
+                    <div class="double-field">
+                        <label for="email">E-mail</label>
+                        <br />
+                        <input id="email" type="email" name="email">
+                    </div>
+
+                    <div class="duble-field">
+                        <label for="Telefone">Telefone</label>
+                        <br>
+                        <input id="telefone" type="text" maxlength="11" required name="telefone">
+                    </div>
+
+
+                    <div class="duble-field">
+                        <label for="data">Data do Evento</label>
+                        <br>
+                        <input id="data" type="date" name="data_evento">
+                    </div>
+
+                    <div class="duble-field">
+                        <label for="Tipo-de-Evento">Tipo de Evento</label>
+                        <br>
+                        <input id="tipo" type="text" name="tipo_evento">       
+                    </div>
+
+
+                    <div class="parte-2">
+                        <label for="descrição">Descrição</label>
+                        <br>
+                        <input id= "observacoes" type="text" name="observacoes">
+                    </div>
+
+                </div>
+
+                <div id="sla-meo">
+                    <input type="submit" value="Finalizar Compra">
+                </div>
+            </form>
+
+        </main>
+
+
+        

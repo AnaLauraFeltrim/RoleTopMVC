@@ -1,0 +1,43 @@
+<link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <main>
+            <form method="POST" action='@Url.Action("Dashboard", "Administrador")'></form>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Tipo de Evento</th>
+                        <th>Data</th>
+                        <th colspan="2">Aprovar</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fulaninho da Silva</td>
+                        <td>Showzão</td>
+                        <td>26/09/2019</td>
+                        <td><button>S</button></td>
+                        <td><button>N</button></td>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                        <td>Fulaninho da Silva</td>
+                        <td>Showzão</td>
+                        <td>25/09/2019</td>
+                        <td><button>S</button></td>
+                        <td><button>N</button></td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <form method="POST" action='@Url.Action("Index", "Home")'>
+                <input id="sair" type="submit" value="Sair">
+            </form>
+
+
+        </main>
+
+
+    

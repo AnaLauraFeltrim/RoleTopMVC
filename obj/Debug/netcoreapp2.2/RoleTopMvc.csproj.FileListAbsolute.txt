@@ -1,0 +1,71 @@
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorAssemblyInfo.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorAssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.TagHelpers.input.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.TagHelpers.output.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorCoreGenerate.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.dll
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.pdb
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Cadastro.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Erro.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorTargetAssemblyInfo.cache
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorTargetAssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.deps.json
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.dll
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.pdb
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.Views.dll
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.Views.pdb
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.Views.pdb
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csproj.CopyComplete
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Orcamento\Index.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\DashboardCliente.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.deps.json
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.runtimeconfig.json
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.runtimeconfig.dev.json
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.dll
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.pdb
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.Views.dll
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\bin\Debug\netcoreapp2.2\RoleTopMvc.Views.pdb
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csprojAssemblyReference.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csproj.CoreCompileInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorAssemblyInfo.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorAssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.AssemblyInfoInputs.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.AssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.TagHelpers.input.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.TagHelpers.output.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorCoreGenerate.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Cadastro.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Orcamento\Index.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Erro.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorTargetAssemblyInfo.cache
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.RazorTargetAssemblyInfo.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.Views.pdb
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.dll
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.pdb
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\RoleTopMvc.csproj.CopyComplete
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Historico.g.cshtml.cs
+C:\Users\46962757875\Documents\Vai se foder\Pasta importante\RoleTopMvc\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Dashboard.g.cshtml.cs

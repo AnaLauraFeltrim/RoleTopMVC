@@ -1,0 +1,40 @@
+
+<link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <main>
+
+            <form method="POST" action='@Url.Action("Historico", "Cliente")'></form>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Cliente</th>
+                        <th>Tipo de Evento</th>
+                        <th>Situação</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>25/09/2019</td>
+                        <td>Fulaninho da Silva</td>
+                        <td>Showzão</td>
+                        <td>Aprovado</td>
+
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                        <td>25/09/2019</td>
+                        <td>Fulaninho da Silva</td>
+                        <td>Showzão</td>
+                        <td>Recusado</td>
+
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <form method="POST" action='@Url.Action("Index", "Home")'>
+                <input id="voltar" type="submit" value="Voltar">
+            </form>

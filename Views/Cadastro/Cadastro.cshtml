@@ -1,0 +1,13 @@
+
+<link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <main>
+            <form method= "POST" action= '@Url.Action("CadastrarCliente", "Cadastro")'>
+            <h1>Cadastro</h1>
+                <p><input type="text" name="nome" placeholder="Nome Completo"></p>
+                <p><input type="email" name="email" placeholder="email@exemplo.com"></p>
+                <p><input type="tel" name="telefone" placeholder="11999997578"></p>
+                <p><input type="password" name="senha" placeholder="Senha"></p>
+                <p><input type="date" id="Data_Nascimento" name="data_Nascimento" placeholder="Data de nascimento"></p>
+                <p><input type="submit">
+    </form>
+        </main>

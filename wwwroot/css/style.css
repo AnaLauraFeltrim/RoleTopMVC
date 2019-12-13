@@ -1,0 +1,268 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h2{
+    font-size: 4.5em;
+    text-align: center;
+    margin-top: 1.5em;
+    color:#fff;
+    
+    
+}
+
+body{
+    background-color: #000000;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------------
+                                            header-início
+-----------------------------------------------------------------------------------------------------------------------------*/
+header{
+    
+    flex-direction: row;
+}
+
+header{
+    width: 100%;
+    position: fixed;
+    display: flex;
+    background-color: #E47A2E;
+
+    
+}
+
+hgroup.header{
+    justify-content: space-around;
+    display: flex;
+    background-color:  #E47A2E;
+    
+}
+
+ul#nav{
+    display: flex;
+    justify-content: center;
+    margin-right: 3.5em;
+    
+}
+li.header{
+    list-style-type: none;
+    font-size: 3.5em;
+    text-align: center;
+    margin-left: .2em;
+    display: flex;
+    justify-content: space-around;
+    
+}
+ .logo{
+     width: 15%;
+     justify-content: flex-start;
+     margin-top: .5em;
+ }
+
+ nav{
+     justify-content: space-around;
+     margin-top: 2.5%;
+     
+ }
+
+ ul li a{
+     color: #000;
+     justify-content: baseline;
+ }
+
+ /*---------------------------------------------------------------------------------------------------------------
+                                                header-fim
+-------------------------------------------------------------------------------------------------------------------*/
+
+
+/*---------------------------------------------------------------------------------------------------------------
+                                                sobre-começo
+-------------------------------------------------------------------------------------------------------------------*/
+
+hgroup.sobre{
+    display: flex;
+}
+
+#sobre{
+    background-image: url(img/Baile.jpg);
+    background-size: cover;
+    background-position: center;
+    font-size: 3.5em;
+    justify-content: center;
+  
+}
+
+
+
+.sobre>p{
+    display: flex;
+    color: aliceblue;
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    
+}
+
+/*---------------------------------------------------------------------------------------------------------------
+                                                sobre-fim
+-------------------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------------------------------------
+                                                galeria-começo
+-------------------------------------------------------------------------------------------------------------------*/
+li{
+    list-style-type: none;
+} 
+
+li img{
+    
+    width: 75%;  
+    box-shadow: 1.2em 1.2em 1.2em .5em #515151;
+    
+}
+
+img#espaço{
+    display: flex;
+    margin-top: -49%;
+    margin-left: 100%;
+
+}
+
+img#party{
+    margin-left: 4.5em;
+}
+
+img#bailão{
+    margin-left: 4.5em;
+
+}
+
+img#festa-top{
+    display: flex;
+    margin-top: -50%;
+    margin-left: 100%;
+
+}
+div.fotos{
+    margin: 1.5em;
+    width: 50%;
+}
+    
+    
+section#galeria{
+    
+    background-color:#000;
+}
+
+
+ul.galeria-fotos{
+    display: grid;
+}
+ul div{
+    flex-wrap:row;
+}
+ul{
+    padding-left: 0px;
+}
+
+ul.fotos-galeria{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+} 
+
+div.teste-final{
+    display: flex;
+    justify-content: center;
+}
+
+/*---------------------------------------------------------------------------------------------------------------
+                                                galeria-fim
+-------------------------------------------------------------------------------------------------------------------*/
+
+
+img#calendário {
+    width: 95%;
+}
+    
+   
+img#avaliação{
+    margin-bottom: 4.5%;
+}  
+
+footer{
+    display: flex;
+    background-color: #E47A2E;
+    flex-direction: column;
+
+}
+
+footer p{
+    font-size: 2em;
+}
+
+
+div#redes-socias{
+    align-self: flex-end;
+    margin-top: -17em;
+    margin-right: 2.5em;
+    margin-bottom: 10em;
+}
+
+div#contatos {
+    
+    margin-top: 2em;
+    margin-right: 2.5em;
+    margin-bottom: 10em;
+}
+
+#avaliação-clientes>img{
+    margin-bottom: 15%;
+    display: flex;
+    margin-left: 6.5%;
+   
+}
+
+#foto-1>li>img{
+    width: 75%;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+
+
+
+
